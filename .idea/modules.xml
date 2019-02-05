@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/beatlsql/beatlsql.iml" filepath="$PROJECT_DIR$/beatlsql/beatlsql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/jpademo.iml" filepath="$PROJECT_DIR$/demo/jpademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisdemo/mybatisdemo.iml" filepath="$PROJECT_DIR$/mybatisdemo/mybatisdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/policyfixedifelse/policyfixedifelse.iml" filepath="$PROJECT_DIR$/policyfixedifelse/policyfixedifelse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects.iml" filepath="$PROJECT_DIR$/projects.iml" />
+    </modules>
+  </component>
+</project>
